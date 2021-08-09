@@ -5,3 +5,6 @@ It is mainly for practice.
 
 ##README.md file in 0x02-git directory
 This is created for the new directory.
+
+#EDITED PART
+This shows that the README.md file has been edited.
